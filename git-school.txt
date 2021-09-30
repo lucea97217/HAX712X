@@ -68,7 +68,11 @@ git push
 
 # git cherry-pick scenario
 
-git cherry-pick 8f7c801 
-# or 
+git cherry-pick 8f7c801
+ 
+# or
+ 
 git cherry-pick release 
+
+#i did it
 
