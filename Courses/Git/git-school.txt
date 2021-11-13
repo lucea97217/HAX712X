@@ -17,7 +17,7 @@ git commit
 git commit
 git commit
 
-# git free explore with remote 
+# git free explore with remote.
 
 git commit
 git checkout -b ''branch1
@@ -69,6 +69,8 @@ git push
 # git cherry-pick scenario
 
 git cherry-pick 8f7c801 
+
 # or 
+
 git cherry-pick release 
 
